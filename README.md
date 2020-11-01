@@ -1,3 +1,3 @@
 # webdas
 Kuliah Semester 3 Website
-Pertemuan ketigas 
+Pertemuan ketiga
